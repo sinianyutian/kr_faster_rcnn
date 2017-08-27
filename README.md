@@ -1,7 +1,7 @@
 # kr_faster_rcnn
 faster_rcnn implementation on Keras with VGG &amp; ResNet models
 
-created by romyny
+created by Romuald FOTSO
 
 project's status: ongoing (solving some issues)
 
@@ -41,4 +41,4 @@ coming soon...
 
 ## Contact
 
-Please feel free to leave suggestions or comments to Romyny (romyny9096@gmail.com)
+Please feel free to leave suggestions or comments to Romuald FOTSO (romyny9096@gmail.com)

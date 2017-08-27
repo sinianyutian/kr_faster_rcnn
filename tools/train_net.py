@@ -4,7 +4,7 @@
 # kr_faster_rcnn
 # 
 # Copyright (c) 2017
-# Written by Romyny
+# Written by Romuald FOTSO
 # Licensed under The MIT License
 # --------------------------------------------------------
 # usage:
